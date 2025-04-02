@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "chromedriver": "^134.0.5",
+    "nodemailer": "^6.10.0",
     "selenium-webdriver": "^4.30.0"
   },
   "name": "catfood",
