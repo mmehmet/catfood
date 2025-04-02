@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chromedriver": "^134.0.5",
+    "selenium-webdriver": "^4.30.0"
+  },
+  "name": "catfood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmehmet/catfood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmehmet/catfood/issues"
+  },
+  "homepage": "https://github.com/mmehmet/catfood#readme",
+  "description": ""
+}
