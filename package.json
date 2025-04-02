@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "chromedriver": "^134.0.5",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^6.10.0",
     "selenium-webdriver": "^4.30.0"
   },
